@@ -4,7 +4,7 @@
  * Título: Juego del ahorcado
  * Algoritmo: El juego del ahorcado
  * Fecha: 17.11.2022
- * Autor: Hugo Pelayo
+ * Autor: Cachupín
  */
 
 // NOTAS SOBRE BUGS:
